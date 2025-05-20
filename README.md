@@ -16,4 +16,4 @@ I developed this dashboard to gain a comprehensive view of my financial status, 
 
 # Features and Highlights
 # Screenshot
-![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Patient.png)
+![Alt text)](https://github.com/lderames/Financial-Planner-Dashboard/blob/main/Screenshot%20.png)
